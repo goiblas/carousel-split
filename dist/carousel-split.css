@@ -1,0 +1,15 @@
+/**
+ * split-carousel - Carrousel with transitions in several columns
+ * @version v0.0.1
+ * @link 
+ * @license MIT
+ */
+
+body {
+    border: 5px solid blue;
+}
+/* comments */
+.carousel-split {
+    background-color: #ddd;
+    height: 420px;
+}
